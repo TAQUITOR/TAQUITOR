@@ -4,6 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Computer Systems Engineering Student | Seeking Entry-Level opportunity as a Python Developer.
---->
+- Computer Systems Engineering Student | Seeking Entry-Level opportunity as a Python Developer.9
+
