@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @TAQUITOR
-- 👀 I’m interested in becoming a backend developer...
--  I'm currently working with both python and java languages , making projects etc..
-- https://www.linkedin.com/in/diegopradocam/
-
-- Computer Systems Engineering Student | Seeking Entry-Level opportunity as a Python Developer or as a Java Developer.
-
+ Ingeniero de software con enfoque fullstack. Desarrollo APIs, diseño bases de datos, implemento lógica backend y creo interfaces limpias. Me especializo en C#, .NET Framework/Core, y consumo y prueba de servicios usando herramientas como Postman, Swagger y SoapUI. Siempre buscando crear soluciones útiles y eficientes.
